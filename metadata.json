@@ -1,0 +1,8 @@
+{
+  "name": "Document Tracker Vendor",
+  "description": "Sistem pelacakan dokumen vendor dengan integrasi Google Drive, Google Sheets, dan pengingat otomatis WhatsApp via Fonnte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
